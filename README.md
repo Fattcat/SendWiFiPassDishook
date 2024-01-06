@@ -1,2 +1,2 @@
 # SendWiFiPasswordWebhook
-Sends WiFi SSID and Password to webhook url link
+Sends WiFi SSID and Password to DISCORD WebHook Link where it show.
